@@ -1,2 +1,10 @@
-# ShakeWindow
-窗口抖动效果测试程序，想象一下你的电脑窗口突然"活"了起来，像手机振动一样在屏幕上左右上下晃动。这就是窗口抖动效果！
+# 软件截图
+
+v1.0
+
+<img width="406" height="472" alt="image" src="https://github.com/user-attachments/assets/804f806e-4a81-4f87-9e5c-5c31766c43de" />
+
+v2.0
+
+<img width="500" height="650" alt="image" src="https://github.com/user-attachments/assets/8f6523da-0d9c-4260-9444-388f5e692f2e" />
+
